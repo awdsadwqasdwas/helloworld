@@ -1,2 +1,2 @@
 # helloworld
-asd
+print("hi")
